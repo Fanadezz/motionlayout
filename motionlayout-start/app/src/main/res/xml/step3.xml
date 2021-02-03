@@ -19,10 +19,10 @@
 
             <KeyPosition
 
-                app:framePosition="50"
+                app:framePosition="80"
                 app:motionTarget="@id/moon"
                 app:keyPositionType="parentRelative"
-                app:percentY="0.5"
+                app:percentY="-0.3"
 
                 />
 
